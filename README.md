@@ -27,4 +27,4 @@ The Neil deGrasse Tyson Digital Twin is a Retrieval-Augmented Generation (RAG) b
 - ChromaDB
 - LangChain
 - HuggingFace Embeddings
-- ElevenLabs
+- ElevenLabs--( I tried to implement this but after many errors I understood that I need a paid subscription for this, so went on with gTT instead)
