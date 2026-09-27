@@ -1,4 +1,4 @@
-# digital-twin-NeildeGrasseTyson2
+# digital-twin-NeildeGrasseTyson
 # 🔭 Neil deGrasse Tyson Digital Twin
 
 An AI-powered Digital Twin of Neil deGrasse Tyson that combines Retrieval-Augmented Generation (RAG), Long-Term Memory, Temporal Awareness, and Voice Interaction to create an engaging and personalized conversational experience.
